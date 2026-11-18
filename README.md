@@ -1,3 +1,3 @@
-# articles
-This is a compilation of data & ai articles which I found it useful.
-
+This is a compilation of Data & AI articles which I found it useful.
+- Data
+- AI
